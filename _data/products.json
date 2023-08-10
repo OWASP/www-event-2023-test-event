@@ -14,6 +14,18 @@
                 "display_order": "0001",
                 "display_end": "2023-08-25"
             }
+        },
+        {
+            "id": "sku_OQY57uk6Eq9mW0",
+            "name": "Training - AppSec Security Training 101",
+            "amount": 99500,
+            "metadata": {
+                "description": "<p>Train with the best brain in the appsec train.</p>",
+                "type": "regular",
+                "discountable": "True",
+                "inventory": "35",
+                "display_order": "11"
+            }
         }
     ]
 }
