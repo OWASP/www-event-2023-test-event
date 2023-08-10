@@ -1,1 +1,19 @@
-{"id": "prod_OQXzXsJKPxk4FF", "name": "2023 Test Event", "currency": "usd", "products": []}
+{
+    "id": "prod_OQXzXsJKPxk4FF",
+    "name": "2023 Test Event",
+    "currency": "usd",
+    "products": [
+        {
+            "id": "sku_OQY2nFdLA3MDKs",
+            "name": "Early Bird Conference Ticket",
+            "amount": 55000,
+            "metadata": {
+                "description": "<p>Register Early and Save</p>",
+                "type": "regular",
+                "display_start": "2023-08-10",
+                "display_order": "0001",
+                "display_end": "2023-08-25"
+            }
+        }
+    ]
+}
